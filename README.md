@@ -1,3 +1,14 @@
+**This is a FORK of https://github.com/jlanzarotta/bufexplorer**
+
+Changes:
+
+- Rework of the code to implement ShowTabBuffer option to reduce
+  the number of 'glitches'
+
+Changes are licensed under the same terms as the original
+
+# Original README
+
 bufexplorer
 ===========
 
