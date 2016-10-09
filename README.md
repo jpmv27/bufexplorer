@@ -3,7 +3,7 @@
 Changes:
 
 - Rework of the code to implement ShowTabBuffer option to reduce
-  the number of 'glitches'
+  the number of 'glitches' (merged upstream)
 
 Changes are licensed under the same terms as the original
 
